@@ -100,7 +100,7 @@ private fun WidgetContent(habits: List<Habit>, done: Set<Long>, doneCount: Int, 
                     maxLines = 1
                 )
             }
-        }
+        } 
     }
 }
 
